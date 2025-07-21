@@ -1,6 +1,5 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+ghcr.io/fc6a1b03/better-mc-fabric-bmc3:v34
+ghcr.io/fc6a1b03/the-pixelmon-modpack:9.3.6
+ghcr.io/fc6a1b03/rlcraft:2.9.2d
+# 支持指定架构
+--platform=linux/amd64
