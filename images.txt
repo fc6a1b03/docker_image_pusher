@@ -1,1 +1,1 @@
-ghcr.io/fc6a1b03/crawl4ai:0.7.1
+ghcr.io/fc6a1b03/crawl4ai:0.7.2
