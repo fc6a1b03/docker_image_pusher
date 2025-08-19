@@ -1,1 +1,2 @@
 ghcr.io/fc6a1b03/crawl4ai:0.7.4
+ghcr.io/fc6a1b03/better-mc-fabric-bmc3:v30
