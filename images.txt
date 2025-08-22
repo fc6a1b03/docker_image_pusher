@@ -1,1 +1,1 @@
-ghcr.io/fc6a1b03/better-mc-fabric-bmc3:fabric-v30-1.21.1
+ghcr.io/fc6a1b03/fpsbooster:1.0.4_fabric_1.21.4
