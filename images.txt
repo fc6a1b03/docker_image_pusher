@@ -1,1 +1,1 @@
-ghcr.io/fc6a1b03/fpsbooster:1.0.4_fabric_1.21.4
+unclecode/crawl4ai:0.7.4
